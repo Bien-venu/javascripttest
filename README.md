@@ -18,4 +18,4 @@ This repository contains two JavaScript tests. Follow the instructions below to 
 
    In your terminal, run:
    
-   node test1.js or node test2.js
+   node Test1.js or node Test2.js
